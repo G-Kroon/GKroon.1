@@ -1,0 +1,10 @@
+Convert website to a static HTML, CSS, and JavaScript structure
+
+Migrate the project from a dynamic framework to a static single-page application by embedding all HTML, CSS, and JavaScript directly into the `index.html` file.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 70606c3d-6626-497d-b3c6-b4a02583c01d
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 93216706-f751-4ec9-9ff5-2ea2b4d5511c
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/e4d43d1d-1370-4ab2-b784-4d8c5be9f698/70606c3d-6626-497d-b3c6-b4a02583c01d/FVj3Wq2
+Replit-Helium-Checkpoint-Created: true
